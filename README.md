@@ -10,7 +10,7 @@ Repositório criado para o Desafio de Projeto.
 - [x] Projetos ágeis com SCRUM OLD
 - [x] Lógica de Programação Essencial
 - [x] Introdução ao Git e ao GitHub
-- [ ] Criando seu Primeiro Repositório no GitHub para compartilhar seu progresso
+- [x] Criando seu Primeiro Repositório no GitHub para compartilhar seu progresso
 - [ ] Mentoria 02: Carreira Eduzz e cultura e governança
 - [ ] Introdução a criação de Websites com HTML5 e CSS3
 - [ ] JavaScript ES6 essencial
